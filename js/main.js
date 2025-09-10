@@ -1,5 +1,5 @@
-function test() {
-    document.querySelector("#main main").textContent = "초기설정";
-}
+// function test() {
+//     document.querySelector("#main main").textContent = "초기설정";
+// }
 
-test();
+// test();

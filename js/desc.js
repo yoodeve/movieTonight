@@ -52,9 +52,6 @@ Template: 라이브러리, dependency 수정에 대한 커밋(커밋-푸시 후 
 명명: camelCase
 함수명: 동사로 시작, (이벤트에 부착되는 경우 이벤트 명 포함(?))
 상수명: SNAKE_CASE
-컴포넌트명: PascalCase
-컴포넌트가 아닌 ts파일(style.js 등): 파일명 camelCase
-recoil atom: "RC_" 등으로 시작 혹은 종료 (?) (ex. RC_shopList 등)
 */
 
 /*
