@@ -1,7 +1,5 @@
 function test() {
-    console.log("loaded");
+    document.querySelector("#main main").textContent = "초기설정";
 }
 
 test();
-
-document.writeln("초기설정");
