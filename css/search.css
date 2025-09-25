@@ -1,0 +1,30 @@
+.search-banner {
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 20px 0;
+}
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.main-banner-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 15px;
+}
+.search-input-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.search-input {
+    width: 600px;
+    height: 50px;
+    background-color: #2a2a2a;
+    outline: none;
+}

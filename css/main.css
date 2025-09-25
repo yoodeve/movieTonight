@@ -40,6 +40,18 @@ nav {
     align-items: center;
     justify-self: center;
 }
+.nav-element {
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav-a:visited,
+.nav-a:hover,
+.nav-a:focus,
+.nav-a:active {
+    text-decoration: none;
+    color: #fff;
+}
+
 .nav-bar div {
     display: flex;
     align-items: center;
